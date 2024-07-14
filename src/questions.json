@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which is the longest river in the USA?",
+            "choices": ["Missouri", "Mississippi","Colorado","Yukon"],
+            "correctAnswerIdx": 0
+        },
+        {
+            "question": "Where is the lowest point in the USA?",
+            "choices": ["Washington DC", "Death Valley","Pearl Harbor","Silicon Valley"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "Idaho has borders with how many other states?",
+            "choices": ["4", "5","6","3"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Springfield is the capital of which US state?",
+            "choices": ["Florida", "New York","Washington","Illinois"],
+            "correctAnswerIdx": 3
+        },
+        {
+            "question": "Which of these US states is the largest?",
+            "choices": ["Washington", "Texas","Alaska","California"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Where is the southernmost point of the continental US states?",
+            "choices": ["Florida", "Death Valley","Pearl Harbor","Silicon Valley"],
+            "correctAnswerIdx": 0
+        },
+        {
+            "question": "Where does the USA rank in the world by population?",
+            "choices": ["1", "2","3","4"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Which US State has the most National Historic Landmarks located in it?",
+            "choices": ["Washington DC", "New York","Hawaii","Silicon Valley"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "What was Denver previously officially called?",
+            "choices": ["Washington DC", "Death Valley","Denver City","Silicon Valley"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Which US state was once a monarchy?",
+            "choices": ["Washington DC", "Death Valley","Hawaii","Silicon Valley"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Which US state is nicknamed the Sunshine State?",
+            "choices": ["Florida", "Death Valley","Pearl Harbor","Silicon Valley"],
+            "correctAnswerIdx": 0
+        },
+        {
+            "question": "Austin is the capital of which US state?",
+            "choices": ["Washington DC", "Texas","California","Silicon Valley"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "In what year was statehood granted to Alaska?",
+            "choices": ["1932", "1900","2024","1959"],
+            "correctAnswerIdx": 3
+        },
+        {
+            "question": "The Hoover Dam is a famous landmark in which US state?",
+            "choices": ["Washington DC", "Arizona","Nevada","Silicon Valley"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Salt Lake City is the capital of which US state?",
+            "choices": ["Washington", "Utah","Nevada","Colorado"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "Which US state borders six states and one Canadian province?",
+            "choices": ["Washington", "Maine","Montana","Idaho"],
+            "correctAnswerIdx": 3
+        },
+        {
+            "question": "Which US state capital is the largest by population?",
+            "choices": ["Washington DC", "Arizona","California","New York"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "Which country did the USA fight during the Revolutionary War?",
+            "choices": ["France", "Japan","Britain","Silicon Valley"],
+            "correctAnswerIdx": 2
+        },
+        {
+            "question": "Trenton is the capital of which US state?",
+            "choices": ["Washington", "New Jersey","Hawaii","California"],
+            "correctAnswerIdx": 1
+        },
+        {
+            "question": "Which state has the tallest state capitol building?",
+            "choices": ["Washington", "California","Louisiana","New Jersey"],
+            "correctAnswerIdx": 2
+        }
+    ]
+}

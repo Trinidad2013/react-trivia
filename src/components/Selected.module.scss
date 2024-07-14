@@ -1,0 +1,22 @@
+.Selected {
+  width: 45%;
+  padding: 10px;
+  background-image: none;
+  background-color: #65b2f2;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  background-attachment: scroll;
+  background-origin: padding-box;
+  background-clip: border-box;
+  color: #efbf47;
+  font-size: 20px;
+  font-family:
+    Arial Black,
+    sans-serif;
+  border: 2px solid #4646eb;
+  border-radius: 10px;
+  &:hover {
+    border: 10px solid rgb(70, 70, 235);
+  }
+}
